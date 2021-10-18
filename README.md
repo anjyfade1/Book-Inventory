@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `npm install axios` 
 
-Axios was used to fetch the Data using the given api from anapioficeandfire.com.
+Axios was used to fetch the Data using the given api from (https://www.anapioficeandfire.com/).
