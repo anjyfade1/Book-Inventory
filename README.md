@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App] to build a book inventory able filter searched properties.
+This project was bootstrapped with [Create React App] to build a book inventory able to filter searched properties.
 
 ## Available Scripts
 
