@@ -1,0 +1,57 @@
+/* .HomeDetails{
+
+} */
+
+.HomeDetails-Logo{
+    width: 15%;
+}
+
+.HomeDetails-Explore{
+    display:flex;
+    align-items: center;
+    padding: 0 50px 0 0;
+}
+
+.HomeDetails-Explore h2{
+    background-color: #a52;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 0 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+}
+
+.HomeDetails-Explore h3{
+    margin: 0 10px 0 0;
+    font-weight: 200;
+    cursor: pointer;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+.HomeDetails-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 ;
+}
+
+.Heading{
+    text-align: center;
+    margin:10px 0 0 0;
+}
+
+.Heading h3{
+    text-transform: capitalize;
+    font-weight: 200;
+    margin: 0;
+}
+
+.Heading h1{
+    margin: 0;
+}
+
+.Heading h1 span{
+    color: #a52;
+}

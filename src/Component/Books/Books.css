@@ -1,0 +1,9 @@
+.Books{
+    /* border: 2px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex: 25%;
+    padding: 50px 0;
+}
